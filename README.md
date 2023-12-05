@@ -1,11 +1,9 @@
-![](https://raw.githubusercontent.com/appsmithorg/appsmith/release/static/appsmith_logo_primary.png)
+![image](https://github.com/rahulbhole/Food-Delivery-App/assets/11949369/6582ea7b-f80c-46c1-916d-23c69431dc0a)
 
-This app is built using Appsmith. Turn any datasource into an internal app in minutes. Appsmith lets you drag-and-drop components to build dashboards, write logic with JavaScript objects and connect to any API, database or GraphQL source.
 
-![](https://raw.githubusercontent.com/appsmithorg/appsmith/release/static/images/integrations.png)
+![image](https://github.com/rahulbhole/Food-Delivery-App/assets/11949369/071d6829-e395-4bea-b904-0c8001297dc2)
 
-### [Github](https://github.com/appsmithorg/appsmith) • [Docs](https://docs.appsmith.com/?utm_source=github&utm_medium=social&utm_content=appsmith_docs&utm_campaign=null&utm_term=appsmith_docs) • [Community](https://community.appsmith.com/) • [Tutorials](https://github.com/appsmithorg/appsmith/tree/update/readme#tutorials) • [Youtube](https://www.youtube.com/appsmith) • [Discord](https://discord.gg/rBTTVJp)
 
-##### You can visit the application using the below link
 
-###### [![](https://assets.appsmith.com/git-sync/Buttons.svg) ](https://app.appsmith.com/applications/656e6b64ab884e2d2c1d1386/pages/656e6b64ab884e2d2c1d1389) [![](https://assets.appsmith.com/git-sync/Buttons2.svg)](https://app.appsmith.com/applications/656e6b64ab884e2d2c1d1386/pages/656e6b64ab884e2d2c1d1389/edit)
+![image](https://github.com/rahulbhole/Food-Delivery-App/assets/11949369/b46aa7f7-6147-45f8-a233-85c70c9a3712)
+
